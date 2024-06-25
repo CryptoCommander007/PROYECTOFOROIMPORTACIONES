@@ -1,0 +1,26 @@
+.custom-banner-height {
+    height: 500px !important; /* Ajusta este valor según lo que necesites */
+    background-size: cover !important;
+    background-position: center !important;
+  }
+  
+  
+  
+  .responsive-text-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.responsive-text-container h2 {
+    font-size: 2rem; /* Tamaño del título */
+    font-weight: 700; /* Peso del título */
+    text-align: center;
+}
+
+.responsive-text-container p {
+    font-size: 1.5rem; /* Tamaño del texto */
+    line-height: 1.5; /* Altura de línea */
+    margin-bottom: 1rem; /* Espaciado entre párrafos */
+}
